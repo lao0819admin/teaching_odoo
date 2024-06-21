@@ -1,2 +1,1 @@
-# teaching_odoo facken 
-# bagato zmin nichogo ne priyshlo
+# teaching_odoo start test
